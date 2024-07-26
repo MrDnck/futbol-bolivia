@@ -13,7 +13,7 @@ st.markdown("""
 Los datos se obtuvieron de la plataforma Kaggle: [Jugadores del Fútbol Boliviano](https://www.kaggle.com/datasets/gersontorrez/jugadores-del-futbol-boliviano)
 
 ### Código Fuente
-Puedes ver y modificar el código en el siguiente repositorio de GitHub: [Repositorio de GitHub](https://github.com/tu-repositorio)
+Puedes ver y modificar el código en el siguiente repositorio de GitHub: [Repositorio de GitHub](https://github.com/MrDnck/futbol-bolivia)
 
 ### Autor
 Cristian Catari

@@ -2,6 +2,10 @@
 
 Esta aplicación de Streamlit realiza un análisis de los jugadores de fútbol boliviano, permitiendo filtrar los datos por nacionalidad, club y posición, y visualizando diversas estadísticas y gráficos interactivos.
 
+ ## Demo
+ 
+ Puedes ver una demo de la aplicación en este enlace: [Demo](https://futbol-bolivia.streamlit.app/)
+
 ## Descripción
 
 La aplicación muestra:
